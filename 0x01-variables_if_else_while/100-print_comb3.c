@@ -12,24 +12,23 @@ int main(void)
 {
 	int a, b;
 
-	for (a = 0; a < 10; a++)
+	for (a = 0; a < 9; a++)
 	{
-		for (b = 1; b < 10; b++)
+		for (b = a + 1; b <= 9; b++)
 		{
 			if (b != a)
 			{
 				putchar('0' + a);
 				putchar('0' + b);
 			}
-			if (a == 2 && b == 2)
+			if (a == '8' && b == '9')
+			continue;
 			{
 				putchar(',');
 				putchar(' ');
 			}
 		}
 	}
-	putchar('0' + a);
-	putchar('0' + b);
 	putchar('\n');
 	return (0);
 }

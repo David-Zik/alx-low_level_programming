@@ -9,17 +9,14 @@
  */
 
 int main(void)
-{
+
 	char ch;
-	/* Prints lowercase */
+	/* Prints lowercase alphabet */
 
 	for (ch = 'a'; ch <= 'z'; ch++)
-	putchar(ch);
-	putchar('\n');
-
-	/* Prints alphabet in uppercase */
+	
+	/* Prints uppercase alphabet */
 	for (ch = 'A'; ch <= 'Z'; ch++)
 	putchar(ch);
-	putchar('\n');
+	putchat('\n');
 	return (0);
-}

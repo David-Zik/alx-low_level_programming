@@ -1,0 +1,89 @@
+[33mcommit fb30946c2261ca877d158a6f75653f3af1d195d5[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sun Mar 19 00:14:37 2023 -0700
+
+    Prints possible combinations of two two-digits
+
+[33mcommit 5f1efce7d0fa6f9a28914053487bf3c8bec16091[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 22:47:47 2023 -0700
+
+    Prints different combinations of three digits
+
+[33mcommit 44c18222fd795bced9eda8ecd0be61ecf578568e[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 14:18:42 2023 -0700
+
+    101-print_comb4
+
+[33mcommit 7d845a3b7934341c6ac007b3c2762932c4d29451[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 12:40:26 2023 -0700
+
+    Prints all different combinations of two digits
+
+[33mcommit 0999afa7adab753e092cf59d09e6aee449300176[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 11:38:04 2023 -0700
+
+    Prints all possible different combinations of two digits
+
+[33mcommit a4d74bbf246dd73397a3aeb5560557ae7d8d78d9[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 10:02:43 2023 -0700
+
+    print combination of two digits
+
+[33mcommit a1ed091543bd4c8a027eabea84c6c661caff450c[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 08:13:46 2023 -0700
+
+    Prints combination of single digit
+
+[33mcommit 26404f6e0f19e41da3718cbddea225c9c1e4d256[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 05:45:10 2023 -0700
+
+    Prints base 16 in lowercase
+
+[33mcommit 3e0ebb5d4d0d660bf861da4f95bda0fbc33122a1[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 03:59:55 2023 -0700
+
+    Prints a-z reverse
+
+[33mcommit 7126b2772783170666e4c9aa6abafa9a08bb1cb7[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 02:59:34 2023 -0700
+
+    Prints digit with putchar
+
+[33mcommit 22d8255eadc5bf3b8470013aa7dfc82f9d430a6a[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 01:44:45 2023 -0700
+
+    Print binary digit less than 10
+
+[33mcommit 9776501642894149c8ccc74e838bed0761b66b86[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 01:21:16 2023 -0700
+
+    Print single digit of base 10
+
+[33mcommit 03178d07dc5e2f2ff59f6099106fe0fae19d1632[m
+Author: David <davidezeike6@gmail.com>
+Date:   Sat Mar 18 00:05:52 2023 -0700
+
+    Print alphabet without e and q
+
+[33mcommit 258ae4069708deb0bff5960c1e94acff7341a095[m
+Author: David <davidezeike6@gmail.com>
+Date:   Fri Mar 17 14:42:59 2023 -0700
+
+    Prints lowercase and uppercase alphabets
+
+[33mcommit 3a6510521ed95dbf3652e64728b1fcee055968fc[m
+Author: David <davidezeike6@gmail.com>
+Date:   Fri Mar 17 14:33:41 2023 -0700
+
+    prints lowercase and uppercase alphabet

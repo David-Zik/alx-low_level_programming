@@ -4,7 +4,7 @@
  * check - checks fr the square root
  * @a: int
  * @b: int
- *
+ *Return: check
  */
 
 int check(int a, int b)

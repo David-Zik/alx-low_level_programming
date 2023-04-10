@@ -6,27 +6,22 @@
  * main - multiplies two numbers
  * @argc: numbers of argument
  * @argv: arrays of argument
- * @mul: multiplies the integers
+ *
  * Return: 0 success, otherwise should print Error and return 1
  */
 
 int main(int argc, char *argv[])
 {
-	int i, mul = 1;
+	int x, y;
 
-	if (argc > 1)
+	if (argc < 3)
 	{
-		for (i = 1; i < argc; i++)
-		{
-			mul *= atoi(argv[i]);
-		}
-		printf("%d\n", mul);
-	}
-	else
-	{
-		printf("Error");
-		printf("\n");
+		printf("Error\n");
 		return (1);
 	}
+
+	x = atoi(argv[1]);
+	y = atoi(argv[2]);
+	printf("%d\n", x * y);
 	return (0);
 }

@@ -53,7 +53,7 @@ char *mul(char n, char *num, int num_index, char *dest, int dest_index)
 	{
 		add = (dest[k] - '0') + addrem;
 		addrem = add / 10;
-		desk[k] = add % 10 + '0';
+		dest[k] = add % 10 + '0';
 	}
 	if (addrem)
 	{
@@ -73,7 +73,7 @@ int check_for_digits(char **av)
 {
 	int i, j;
 
-	for (i = 1; i < 3; i++);
+	for (i = 1; i < 3; i++)
 	{
 		for (j = 0; av[i][j]; j++)
 		{
@@ -137,7 +137,7 @@ int main(int argc, char *argv[])
 	init(a, ln - 1);
 	for (ti = l2 - 1, i = 0; ti >= 0; ti--, i++)
 	{
-		t = mul(argv[2][ti], argv[1], l1 - 1, a (ln - 2) - i);
+		t = mul(argv[2][ti], argv[1], l1 - 1, a, (ln - 2) - i);
 		if (t == NULL)
 		{
 			for (ti = 0; e[ti]; ti++)
